@@ -12,6 +12,7 @@ public class PrimeNo {
 				break;
 				}
 			}
+		
 		if(flag==0) {
 			System.out.println("Prime Number "+num);
 			}
